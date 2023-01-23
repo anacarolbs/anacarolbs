@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anacarolbs&theme=dark">
   </div>
 
-Em transição de carreira para a área de Data Science! Me formei em Administração, fiz pós em Gestão de Pessoas e estou cursando Ciência da Computação (finalizo em junho de 2025). Atuei durante 10 anos na área Administrativa/Recursos Humanos, com foco em treinamento, engajamento e recrutamento. Atualmente sou Early Associate Intern, atuando como Product Owner em um projeto na área da saúde. 
+Estou em transição de carreira para a área de Data Science! Me formei em Administração, fiz pós em Gestão de Pessoas e estou cursando Ciência da Computação (finalizo em junho de 2025). Atuei durante 10 anos na área Administrativa/Recursos Humanos, com foco em treinamento, engajamento e recrutamento. Atualmente sou Early Associate Intern, atuando como Product Owner em um projeto na área da saúde. 
 
 Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (Exin), Scrum Foundation Professional Certificate (Certiprof). Estou estudando para tirar a certificação AZ-900 Microsoft Azure Fundamentals.
   
