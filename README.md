@@ -1,4 +1,8 @@
-## Olá, seja muito bem-vindo(a)! Pode me chamar de Ana! Atualmente estou em transição de carreira para a área de Data Science.
+## Olá, seja muito bem-vindo(a)! Pode me chamar de Ana! 
+
+Em transição de carreira para a área de Data Science! Me formei em Administração, fiz pós em Gestão de Pessoas e estou cursando Ciência da Computação (finalizo em junho de 2025). Atuei durante 10 anos na área Administrativa/Recursos Humanos, com foco em treinamento, engajamento e recrutamento. Atualmente sou Early Associate Intern, atuando como Product Owner em um projeto na área da saúde. 
+
+Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (Exin), Scrum Foundation Professional Certificate (Certiprof). Estou estudando para tirar a certificação AZ-900 Microsoft Azure Fundamentals.
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolbs&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolbs)](https://github.com/anacarolbs/github-readme-stats)
