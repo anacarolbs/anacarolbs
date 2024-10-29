@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anacarolbs&theme=dark">
   </div>
 
-Estou em transição de carreira para a área de tecnologia! Possuo 10 anos de experiência na área Administrativa/Recursos Humanos e atualmente estou atuando como Scrum Master em um projeto na área de seguros. 
+Estou em transição de carreira para a área de tecnologia! Possuo 10 anos de experiência na área Administrativa/Recursos Humanos e atualmente estou atuando como QA em um projeto na área bancária. 
 
 Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (Exin), Scrum Foundation Professional Certificate (Certiprof). 
   
