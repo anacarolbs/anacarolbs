@@ -7,7 +7,7 @@
 
 Estou em transição de carreira para a área de tecnologia! Possuo 10 anos de experiência na área Administrativa/Recursos Humanos e atualmente estou atuando como QA em um projeto na área bancária. 
 
-Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (Exin), Scrum Foundation Professional Certificate (Certiprof). 
+Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (Exin), Scrum Foundation Professional Certificate (Certiprof) e AZ-900 Microsoft Azure Fundamentals. 
   
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolbs&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolbs)](https://github.com/anacarolbs/github-readme-stats)
